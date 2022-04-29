@@ -1,5 +1,8 @@
 {
     "name": "modules",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
     "devDependencies": {
         "@types/node": "^14"
     },
@@ -8,4 +11,11 @@
         "@pulumi/aws": "^5.0.0",
         "@pulumi/awsx": "^0.40.0"
     }
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grepolliance/modules.git"
+  },
+ "keywords": [],
+  "author": "",
+  "license": "ISC",
 }
